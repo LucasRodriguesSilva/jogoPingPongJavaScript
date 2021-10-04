@@ -1,4 +1,4 @@
-# jogoPingPongJavaScript
+# jogos em JavaScript
 
 Este jogo foi criado no Site p5.js com a ajuda do curso da Alura.
 
